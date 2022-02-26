@@ -5,7 +5,7 @@ menu = """Please select an option
 
 Your selection: """
 
-welcome = "Welcome to your python journal!" 
+welcome = "Welcome to your python journal!\n" 
 
 print(welcome)
 
